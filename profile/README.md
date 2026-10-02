@@ -6,9 +6,9 @@ We build custom and open-source plugins, Block Themes, and tools that make WordP
 
 If you're a client you'll find your project assets available here unless you have your own solution you want us to work in.  If you can't find what you're looking for please reach out.
 
-## Pattern Builder (Early Access)
+## Pattern Builder
 
-Our game-changing WordPress plugin that makes designing and building Block Patterns in the WordPress Editor actually possible. Build patterns for your clients, deliver them in your themes, and give users the right amount of control to make their own changes.
+Our WordPress plugin that makes designing and building Block Patterns in the WordPress Editor actually possible. Build patterns for your clients, deliver them in your themes, and give users the right amount of control to make their own changes.
 
 [Learn more about Pattern Builder](https://twentybellows.com/pattern-builder)
 
